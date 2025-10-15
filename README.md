@@ -18,3 +18,4 @@ Temperature Converter
 Sum of N Natural Numbers
 
 Multiple/Divisible by 3 and 5 (1–100)
+Pattern Printting.
